@@ -1,7 +1,7 @@
 ---
 title:  "Mumbai, do I love you or do I hate you ..!"
 header:
-  teaser: "/assets/images/500x300.png"
+  teaser: "/assets/images/743361-traffic-1.jpg"
 categories: 
   - Personal
 tags:
