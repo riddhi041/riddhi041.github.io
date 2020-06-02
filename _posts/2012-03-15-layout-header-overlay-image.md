@@ -1,49 +1,25 @@
 ---
 title: "Why is it difficult to forget your first love ? "
 header:
-  overlay_image: /assets/images/first-love
-  caption: "Photo credit: [**Unsplash**]steptohealth.com"
+  overlay_image: /assets/images/first-love-500x333.jpg
+  caption: "Photo credit: [**Unsplash**]steptohealth"
 categories:
-  - Layout
-  - Uncategorized
+  - Personal
 tags:
   - Blog Soldier
-  - Personal
+
 last_modified_at: 2020-06-02
 ---
 
-Non-square images can provide some unique styling issues.
+Why is it almost impossible to forget your first love? Most people must have felt earth shattering pain while separating from their first love, along with some other strong emotions like sadness, regret, and self-doubt.
 
-This post tests overlay header images.
+For most of us, this happens when we are too young to know the ways of this world. When we are too naïve and innocent, almost as if we are solely governed by emotions instead of logic. We tend to lay out on the plate the deepest desires, fear, and vulnerabilities, without use of any filter. Without realizing that with your heart, you are also giving the other person an access into your brain, exposing them to all your insecurities, this is an act of immense trust which you impart to somebody. When done for the very first time it results in the deepest bond that you develop with someone outside of your family, a bond  marked with innocence, purity and playfulness, without any expectations or returns. 
 
-## Overlay filter
+First love brings along with it many firsts - the first kiss, the first hug, the first drive and much more, you start exploring the world with someone for the first time, this gets ingrained in the memory and is so intense that even though the next time could be a charm, it would’nt be the first !
 
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
+Your first relationship teaches you many lessons, even when its over, the self-discovery about self is something hard to forget. You learn about new feelings you never knew existed, they could be any from lust, jealousy, compassion to contentment, this is something you can never erase from your memory. 
 
-![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+First love ends up being a bigger part of who you are, just like they say that first love is the sweetest, but the first cut is the deepest.   
 
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-```
 
-Or if you want to do more fancy things, go full rgba:
-
-![transparent red overlay]({{ "/assets/images/mm-header-overlay-red-filter.jpg" | relative_url }})
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 ```
