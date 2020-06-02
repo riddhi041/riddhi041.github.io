@@ -2,6 +2,11 @@
 title: "Why is it difficult to forget your first love ? "
 header:
   overlay_image: /assets/images/first-love-500x333.jpg
+  
+  
+  
+  
+  
   caption: "Photo credit: steptohealth"
 categories:
   - Personal
