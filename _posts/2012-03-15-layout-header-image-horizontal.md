@@ -1,10 +1,12 @@
 ---
 title: "Apocalypse - Is the end of the world nearing ?"
 header:
-  image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  image: /assets/images/Apocalypse.jpg
+  caption: "Photo credit: [**Insider**"
 categories:
   - Imagination
+  Tag
+  - Blog Soldier
 
 ---
 
