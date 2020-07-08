@@ -1,5 +1,5 @@
 ---
-title: "Apocalypse - Is the end of the world nearing ?"
+title: "Apocalypse - Is the end of the world nearing?"
 header:
   image: /assets/images/Apocalypse.jpg
   caption: "Photo credit: [**Insider**]"
@@ -9,7 +9,7 @@ tags:
   - Blog soldier
 ---
 
-With the recent happenings, all I can think about is if the end of the world is nearing. Will it be World War III that will be the doom, or will it be a pandemic of multiple diseases that shall wipe mankind from this planet ? 
+With the recent happenings, all I can think about is if the end of the world is nearing. Will it be World War III that will be the doom, or will it be a pandemic of multiple diseases that shall wipe mankind from this planet? 
 
 Sometimes I wonder if the time during lockdown was given as a bonus to stay with the loved ones, or at least stay connected with them, a reckoning that something even catastrophic is going to happen.
 
