@@ -1,5 +1,5 @@
 ---
-title: "I am hopelessly addicted to Minecraft !!"
+title: "I am hopelessly addicted to Minecraft!"
 header:
   image: /assets/images/collage.jpg
   caption: "Credit: Minecraft"
