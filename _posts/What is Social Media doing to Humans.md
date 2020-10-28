@@ -1,7 +1,7 @@
 ---
 title:  "What is Social Media doing to Humans?"
 header:
-  teaser: "/assets/images/riddhi.png"
+  teaser: "/assets/images/Riddhi.png"
 categories: 
   - Social
 tags:
