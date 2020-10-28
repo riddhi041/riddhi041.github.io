@@ -2,7 +2,7 @@
 title: "Welcome to Blog Soldier!"
 date: 2020-04-20
 categories:
-  - blog
+  - Personal
 tags:
   - Blog Soldier
 ---
