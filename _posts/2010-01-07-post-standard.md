@@ -2,7 +2,7 @@
 title: "Organizations vs Covid-19"
 date: 2020-05-06
 categories:
-  - Business blog
+  - Business
 tags:
   - Blog Soldier
 ---
