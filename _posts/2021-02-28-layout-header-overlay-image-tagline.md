@@ -1,5 +1,5 @@
 ---
-title: "Farmer's Movement 2021, India"
+title: "Farmers Movement 2021, India"
 tagline: "New Farm Laws introduced in India lead to farmers protests!"
 header:
   overlay_image: /assets/images/farmer.jpg
