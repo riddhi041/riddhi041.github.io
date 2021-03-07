@@ -1,7 +1,7 @@
 ---
 title: "Farmer's Movement 2021, India"
 header:
-  overlay_image: /assets/images/farmers.jpg
+  overlay_image: /assets/images/farmer.jpg
   caption: "Photo credit: [**CBC**]"
   actions:
     - label: "Learn more"
