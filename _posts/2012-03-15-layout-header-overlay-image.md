@@ -1,11 +1,11 @@
 ---
 title: "Farmer's Movement in India, 2021"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/farmers.jpg
+  caption: "Photo credit: [**CBC**]"
   actions:
     - label: "Learn more"
-      url: "https://unsplash.com"
+      url: "https://www.youtube.com/watch?v=Iwsa3nLkFqQ"
 categories:
   - Business
 tags:
@@ -15,40 +15,9 @@ tags:
 last_modified_at: 2021-02-28T16:00:52-04:00
 ---
 
-This post should display a **header with an overlay image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests overlay header images.
-
-## Overlay filter
-
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
-
-![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-```
-
-Or if you want to do more fancy things, go full rgba:
-
-![transparent red overlay]({{ "/assets/images/mm-header-overlay-red-filter.jpg" | relative_url }})
-
-```yaml
-excerpt: "This post should [...]"
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-```
+Tens of thousands of farmers from the northern states of India Marched to the capital city to protest against the farming reforms. Police met them with tear gas and water cannons, the farmers stood their ground and protested for days together. This happened due to the passing of new farming laws by the incumbent government that tried to change how the agricultural industry has worked for decades. In a country of 1.4 billion people where agricultural workers make up half of the labor force, the repercussions of those laws could be devastating. In the 1960s India, a recently independent country was struggling to produce enough food for its citizens. A string of droughts made things worse causing devastating  effects, so the government stepped in to modernize farming and increase the food supply in what was called the green revolution. They brought in US advisors to help with the production of rice and wheat. Together they ended up over utilizing the chemical fertilizers, pesticides and irrigation causing large plots of land to become infertile. Many crops suffered and some nearly disappeared, but rice and wheat production soared and soon India went from a food crisis to having a food surplus. It was in this context that India also developed a nationwide food marketing system to ensure fair prices. Its a complex system and it differs from state to state, but here is one way to understand it - it starts with farmers bringing their crops to wholesale markets locally known as Mandis, the farmers then sell those crops to traders through open auctions with transparent pricing. Prices can also be informed by the minimum support price or MSP – a government price for crops like rice, cotton, wheat. The government only buys a couple of crops at these prices in certain states, but those prices can still serve as a benchmark. The crops then go to a secondary market or are stored by the buyers before they are sent out for future sales. It's an imperfect system this market! 
+Local traders end up colluding with each other, auctions actually are not competitive bidding. For the most part, the system works on a large scale because there is an oversight, it aims to protect the farmers by giving them market standards. This system is designed keeping in mind that the  farmers are the weakest link and that they can be explored in numerous ways. Over the years state reforms have gradually redefined and regulated these markets in different ways across India. In Punjab and Haryana for example, they have become a vital part of the industry and farmers here have the highest incomes in the country, but in state of Bihar, markets were eliminated in 2006 and the farmers here are still ranked the poorest in India by income and all of this is happening while there is a bigger farming crisis: The money in farming is disappearing, since the days of the green revolution agriculture has gone from accounting for nearly 50% of the economy to just 15%, meaning millions of farmers already have trouble making ends meet in this shrinking economy. More than half of India’s farming households are in debt and this debt has contributed to a suicide crisis. In the last two years, more than 20,000 farmers have died by suicide. Because of this economic hardship, farmers have been asking for reforms for decades. But this year, instead of providing more protections for this vulnerable community, the central government went in the opposite direction. Farmers feel that the direction in which the reforms are happening is the direction of dismantling the MSP. 
+Let's take a look at these three farming acts that sparked the protest: Each of them deregulates a different part of the system.
+The first act creates free unregulated trade spaces outside the markets. The laws in these spaces would override wholesale market rules, and although a lot of trade takes place outside already what happens in the markets remains a benchmark across the industry. This act would create two parallel markets with very different rules, one with oversight and another that creates room for big corporate players to come in and regulate it. In this dual market structure, players in the regulated markets are bound to move out and operate in the deregulated spaces and this is where farmers are going to lose out when the traditional spaces collapse onto themselves. 
+The second act creates a framework for contract farming deals. Any business agreements would be strictly between farmers and traders with little oversight, giving farmers a few options to fight bad deals. As these agreements increase outside the wholesale markets, they could further fragment the market and leave small farmers dependent on terms set by big corporations or be cut out of the industry all together. 
+The third act affects the different part of the chain, it eliminates the storage limits previously set by the government to control prices. The limited storage means anyone with enough money can stock up. The problem is without oversight, they can start dictating prices. Altogether, the three acts invite big players into the fragmented and deregulated markets that could lead to volatile prices for farmers. While deregulating the market, government has put out a message essentially saying that they think farmers do not need any protection anymore from the government. On June 3rd 2020, the government announced the farming reforms, and it didn't take long for the impact to be felt on the ground. Wholesale markets around the country have already seen fewer crops arrive in their market yards. In the state of Madhya Pradesh more than 40 markets have lost business. Trading has moved out of regulated market spaces and it is not as though good prices are being fetched by farmers, and this is the context in which farmers anger has to be understood as they didn't get what they wanted and what was thrust down upon them is very different from what they were asking for. 
