@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Image Overlay"
+title: "Farmer's Movement in India, 2021"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -7,13 +7,12 @@ header:
     - label: "Learn more"
       url: "https://unsplash.com"
 categories:
-  - Layout
-  - Uncategorized
+  - Business
 tags:
-  - edge case
-  - image
-  - layout
-last_modified_at: 2018-03-20T16:00:52-04:00
+  - Farmer's Movement
+  - India
+  - Social Movements
+last_modified_at: 2021-02-28T16:00:52-04:00
 ---
 
 This post should display a **header with an overlay image**, if the theme supports it.
