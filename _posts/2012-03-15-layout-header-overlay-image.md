@@ -1,5 +1,5 @@
 ---
-title: "Farmer's Movement in India, 2021"
+title: "Farmer's Movement 2021, India"
 header:
   overlay_image: /assets/images/farmers.jpg
   caption: "Photo credit: [**CBC**]"
