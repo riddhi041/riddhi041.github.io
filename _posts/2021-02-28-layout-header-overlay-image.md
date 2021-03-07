@@ -15,30 +15,6 @@ tags:
 last_modified_at: 2021-02-28T16:00:52-04:00
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tens of thousands of farmers from the northern states of India Marched to the capital city to protest against the farming reforms. Police met them with tear gas and water cannons, the farmers stood their ground and protested for days together. This happened due to the passing of new farming laws by the incumbent government that tried to change how the agricultural industry has worked for decades. In a country of 1.4 billion people where agricultural workers make up half of the labor force, the repercussions of those laws could be devastating. In the 1960s India, a recently independent country was struggling to produce enough food for its citizens. A string of droughts made things worse causing devastating  effects, so the government stepped in to modernize farming and increase the food supply in what was called the green revolution. They brought in US advisors to help with the production of rice and wheat. Together they ended up over utilizing the chemical fertilizers, pesticides and irrigation causing large plots of land to become infertile. Many crops suffered and some nearly disappeared, but rice and wheat production soared and soon India went from a food crisis to having a food surplus. It was in this context that India also developed a nationwide food marketing system to ensure fair prices. Its a complex system and it differs from state to state, but here is one way to understand it - it starts with farmers bringing their crops to wholesale markets locally known as Mandis, the farmers then sell those crops to traders through open auctions with transparent pricing. Prices can also be informed by the minimum support price or MSP – a government price for crops like rice, cotton, wheat. The government only buys a couple of crops at these prices in certain states, but those prices can still serve as a benchmark. The crops then go to a secondary market or are stored by the buyers before they are sent out for future sales. It's an imperfect system this market! 
 
 Local traders end up colluding with each other, auctions actually are not competitive bidding. For the most part, the system works on a large scale because there is an oversight, it aims to protect the farmers by giving them market standards. This system is designed keeping in mind that the  farmers are the weakest link and that they can be explored in numerous ways. Over the years state reforms have gradually redefined and regulated these markets in different ways across India. In Punjab and Haryana for example, they have become a vital part of the industry and farmers here have the highest incomes in the country, but in state of Bihar, markets were eliminated in 2006 and the farmers here are still ranked the poorest in India by income and all of this is happening while there is a bigger farming crisis: The money in farming is disappearing, since the days of the green revolution agriculture has gone from accounting for nearly 50% of the economy to just 15%, meaning millions of farmers already have trouble making ends meet in this shrinking economy. More than half of India’s farming households are in debt and this debt has contributed to a suicide crisis. In the last two years, more than 20,000 farmers have died by suicide. Because of this economic hardship, farmers have been asking for reforms for decades. But this year, instead of providing more protections for this vulnerable community, the central government went in the opposite direction. Farmers feel that the direction in which the reforms are happening is the direction of dismantling the MSP. 
