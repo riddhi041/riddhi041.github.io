@@ -3,7 +3,10 @@ title: "Farmer's Movement 2021, India"
 tagline: "New Farm Laws introduced in India lead to farmers protests!"
 header:
   overlay_image: /assets/images/farmer.jpg
-  caption: "Photo credit: [**CBC]"
+  caption: "Photo credit: [**CBC**]"
+  actions:
+    - label: "Learn more"
+      url: "https://www.youtube.com/watch?v=Iwsa3nLkFqQ"
 categories:
   - Business
   - Social Movements
